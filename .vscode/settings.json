@@ -1,3 +1,10 @@
 {
-    "python.analysis.typeCheckingMode": "basic"
+    "python.analysis.typeCheckingMode": "basic",
+    "window.autoDetectColorScheme": true,
+    "window.density.editorTabHeight": "default",
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "workbench.preferredHighContrastLightColorTheme": "Abyss",
+    "workbench.preferredLightColorTheme": "Quiet Light",
+    "python.analysis.autoImportCompletions": true
 }
