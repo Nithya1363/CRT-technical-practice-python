@@ -6,5 +6,6 @@
     "workbench.preferredDarkColorTheme": "Visual Studio Dark",
     "workbench.preferredHighContrastLightColorTheme": "Abyss",
     "workbench.preferredLightColorTheme": "Quiet Light",
-    "python.analysis.autoImportCompletions": true
+    "python.analysis.autoImportCompletions": true,
+    "java.debug.settings.onBuildFailureProceed": true
 }
