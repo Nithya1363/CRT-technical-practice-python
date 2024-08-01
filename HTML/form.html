@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms in HTML</title>
+</head>
+<body>
+    <form method="POST" action="server_url" target="_blank">
+        username <input type="text" /><br/><br/>
+        password <input type="password" /><br/><br/>
+        hobbies
+        <input type="checkbox" name="games" value="reading books"> reading books
+        <input type="checkbox" name="games" value="playing games"> playing games<br/><br/>
+        gender
+        <input type="radio" name="gender" value="male">Male
+        <input type="radio" name="gender" value="female">Female<br/><br/>
+        DOB
+        <input type="date"/><br/><br/>
+        Email
+        <input type="text"/><br/><br/>
+        upload your photo
+        <input type="file"><br/><br/>
+        country
+        <select name="country">
+        <option value="India">India</option>
+        <option value="Aus">AUS</option>
+        <option value="USA">USA</option>
+        </select><br/><br/>
+        About Yourself
+        <textarea rows="5" cols="20"></textarea><br/><br/>
+        <input type="submit" value="Submit"/>
+        </form>
+</body>
+</html>

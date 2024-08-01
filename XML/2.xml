@@ -1,0 +1,11 @@
+<college_details>
+	<CollegeName>College Name:xyz</CollegeName>
+	<place>Location:Rjy</place>
+	<Courses>Courses:java,python,c++</Courses>
+	<students>
+		<student1>
+			1.Name:Teja,Age:10000
+			2.Name:Lavanya,Age:9998
+		</student1>
+	</students>
+</college_details>

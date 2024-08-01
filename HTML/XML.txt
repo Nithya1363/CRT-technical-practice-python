@@ -1,0 +1,17 @@
+XML:
+Extensible markup language
+it was designed to store and transport data
+HTML used for webpages
+XML-used for store and transport data
+both humans and machine can understand
+you can create your tags
+Html is presentation language
+Xml is descriptive language
+
+XML Rules:
+1.must have a starting &closing tag
+tags are case sensitive
+elements must be properly nested 
+must have a root element and only one root element
+attributes values must be quoted
+tag names must not contain spaces
