@@ -23,5 +23,3 @@ def eval_algebra(eq):
         return int(e)-int(a) if b=='+' else int(a)-int(e)
 s=input()
 print(eval_algebra(s))
-
-#zzz code ai
