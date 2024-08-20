@@ -16,4 +16,3 @@ s=input().lower().split()
 print(check(s))
 
 
-#9381817369-Anushya
